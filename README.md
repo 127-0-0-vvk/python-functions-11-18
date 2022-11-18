@@ -1,2 +1,2 @@
 # python-functions-11-18
-Introduction to python fucntion
+Introduction to python function
