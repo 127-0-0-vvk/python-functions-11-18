@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/127-0-0-vvk/python-functions-11-18/actions/workflows/makefile.yml/badge.svg?branch=main)](https://github.com/127-0-0-vvk/python-functions-11-18/actions/workflows/makefile.yml)
+
 # python-functions-11-18
 Introduction to python function
 
