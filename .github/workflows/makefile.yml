@@ -19,3 +19,6 @@ jobs:
 
     - name: Run test
       run: make test
+   
+    - name: Run pylint
+      run: make lint
